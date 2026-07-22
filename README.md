@@ -48,8 +48,5 @@ Currently preparing for backend engineering roles while continuously improving m
 ## 📫 Contact
 
 - Telegram: **@dan_kar003**
-- Email: *(add your email here)*
 
 ---
-
-> *Always learning. Always building.*

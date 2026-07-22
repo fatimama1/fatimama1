@@ -28,10 +28,39 @@ Currently preparing for backend engineering roles while continuously improving m
 
 ---
 
-## 💻 LeetCode
+## 🧩 Algorithms & Competitive Programming
 
 <p align="center">
-<img src="https://github-readme-leetcode-card.romitsagu.com/fatimama?theme=dark&font=Baloo+Bhai&ext=heatmap" />
+
+<img src="https://img.shields.io/badge/Yandex%20CodeRun-186%20Solved-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode"/>
+
+</p>
+
+Regularly solving algorithmic problems to improve:
+
+* data structures
+* algorithms
+* complexity analysis
+* problem solving skills
+
+### Topics
+
+* Arrays & Strings
+* Hash Tables
+* Two Pointers
+* Binary Search
+* Sorting Algorithms
+* Trees
+* Graph Algorithms
+* Dynamic Programming
+* SQL Problems
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/fatimama?theme=dark&font=JetBrains%20Mono"/>
+
 </p>
 
 ---
